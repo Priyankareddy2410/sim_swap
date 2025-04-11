@@ -1,0 +1,5 @@
+print("OTP Bypass Simulation via SIM Swap")
+print("User initiates banking transaction...")
+print("Bank sends OTP via SMS")
+print("But attacker has control of the phone number!")
+print("Attacker receives OTP: 934892 and logs in successfully")

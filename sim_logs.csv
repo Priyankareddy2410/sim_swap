@@ -1,0 +1,5 @@
+user_id,timestamp,sim_changed,location
+101,2025-04-09 10:12:00,False,Hyderabad
+102,2025-04-09 11:05:00,True,Delhi
+103,2025-04-09 11:30:00,False,Chennai
+104,2025-04-09 11:55:00,True,Mumbai
